@@ -5,8 +5,6 @@
 
 - 🌱 Aprendendo: **Elixir e Cloud**
 
-- 📫 Contato: **matfurla79@gmail.com**
-
 - 📄 Minhas experiências: [**Curriculum Vitae**](https://github.com/mat-furla/Curriculum-Vitae/releases/latest)
 
 <h3 align="left">Linguagens e Skills:</h3>
